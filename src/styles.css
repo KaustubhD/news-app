@@ -1,0 +1,10 @@
+.App {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
